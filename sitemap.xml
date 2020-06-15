@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://windghoul.github.io/post/first/</loc>
-    <lastmod>2020-06-15T15:18:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://windghoul.github.io/</loc>
-    <lastmod>2020-06-15T15:18:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://windghoul.github.io/post/</loc>
+    <loc>http://windghoul.github.io/first/</loc>
     <lastmod>2020-06-15T15:18:37+08:00</lastmod>
   </url>
   
@@ -28,6 +18,10 @@
   
   <url>
     <loc>http://windghoul.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://windghoul.github.io/</loc>
   </url>
   
 </urlset>

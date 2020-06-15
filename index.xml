@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>李大狗的私人厨房</title>
     <link>http://windghoul.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 李大狗的私人厨房</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 15:18:37 +0800</lastBuildDate>
+    <language>zh-CN</language>
     
 	<atom:link href="http://windghoul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>http://windghoul.github.io/post/first/</link>
+      <title>新的旅程</title>
+      <link>http://windghoul.github.io/first/</link>
       <pubDate>Mon, 15 Jun 2020 15:18:37 +0800</pubDate>
       
-      <guid>http://windghoul.github.io/post/first/</guid>
+      <guid>http://windghoul.github.io/first/</guid>
       <description>第一篇文章，新的启动 关于hugo 结合github action 自动生产博客的折腾</description>
     </item>
     
