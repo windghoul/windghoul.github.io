@@ -28,11 +28,11 @@ jobs:
       with:
         hugo-version: 'latest'
     - name: build
-      run: hugo --minify
+      run: hugo --theme=beg --baseUrl="http://windghoul.github.io/"
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         PUBLISH_BRANCH: master
-        publish_dir: ./public
+        publish_dir: ./static
     
